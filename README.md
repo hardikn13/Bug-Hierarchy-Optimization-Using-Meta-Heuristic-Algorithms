@@ -41,8 +41,8 @@ genetic differences in the offspring through the random modification of their ge
 
 Python programming was utilized for the improvement and execution of the bug prioritization strategy. The system was assessed on four bug report datasets (Thunderbird, Firefox, Eclipse, and Mozilla) to evaluate their viability. The severity of bugs was determined using various parameters including precision, recall, accuracy, and F-measure. A study was conducted to evaluate the impact and severity of the bugs, allowing programmers to prioritize bugs for fixing according to their severity.
 
-The study revealed that the GA-KNN method performs better than the PSO-KNN method in terms of average accuracy. On the other hand, PSO-KNN provided more accurate bug severity predictions than KNN techniques. The proposed PSO-based and GA-KNN feature selection method significantly improves the results of KNN computations.
-
+The study revealed that the GA-KNN method performs better than the PSO-KNN method in terms of average accuracy. On the other hand, PSO-KNN provided more accurate bug severity predictions than KNN techniques. The proposed PSO-based and GA-KNN feature selection method significantly improves the results of KNN computations. The simulation results of the proposed bug assignment models, including PSO-KNN and GA-KNN approaches, using the four datasets shown in the following image:
+<br>
 ![Bug Hierarchy Diagram](Images/Results.png)
 
 ## Conclusion
