@@ -43,7 +43,7 @@ Python programming was utilized for the improvement and execution of the bug pri
 
 The study revealed that the GA-KNN method performs better than the PSO-KNN method in terms of average accuracy. On the other hand, PSO-KNN provided more accurate bug severity predictions than KNN techniques. The proposed PSO-based and GA-KNN feature selection method significantly improves the results of KNN computations.
 
-![Bug Hierarchy Diagram](images/results.png)
+![Bug Hierarchy Diagram](Images/Results.png)
 
 ## Conclusion
 
